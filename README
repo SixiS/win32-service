@@ -1,3 +1,7 @@
+25 November 2010 -
+ Removed SEH to make this work on mingw
+-
+
 == Description
   The win32-service library allows you to control or create MS Windows services.
 
